@@ -27,6 +27,7 @@ The project is currently deployed at https://plutus-cbv.herokuapp.com/.
 After you sign up and then sign in, you can start creating your expense and split your bills with friends.
 
 ![Imgur](https://i.imgur.com/g1t4kGc.png)
+
 The image above shows the create expense form. You can specify who paid the bill, and what type of split do you want. For splits, there are unequal, equal, and percentage based splitting.
 
 ![Imgur](https://i.imgur.com/biPpa1I.png)
@@ -38,11 +39,13 @@ The image above shows the home page after you signed in, assuming you had made s
 The image above shows the detailed bill listings between you and your friends. The greyed out listing represents expense that was deleted, it is not included in calculating the total owed amount, but can be recovered at any time. You can also click on the expense itself to see all friends involved in that specific expense.
 
 ![Imgur](https://i.imgur.com/4S9bFWd.png)
+
 The image above shows an expense show page. With an equal splitting between 3 people, where Rakesh paid £18 in total, but owes £6 to the group, and the other 2 each owes £6 to the group.
 
 You can also add comments to the expense
 
 ![Imgur](https://i.imgur.com/pJyga8I.png)
+
 There is also a real-time notification system. If someone add or settle an expense, you will be notified in this page.
 
 # Process
